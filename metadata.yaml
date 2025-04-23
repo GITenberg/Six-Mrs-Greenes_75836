@@ -1,0 +1,25 @@
+_repo: Six-Mrs-Greenes_75836
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rea, Lorna
+    gutenberg_agent_id: '58176'
+    url: http://www.gutenberg.org/2009/agents/58176
+description: ''
+gutenberg_issued: '2025-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75836'
+language: en
+pgterms:marc905: 20250405093112rea
+pgterms:marc906: '1929'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: '  $aLondon :$bWilliam Heinemann Ltd., $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Six Mrs. Greenes
+url: http://www.gutenberg.org/ebooks/75836
