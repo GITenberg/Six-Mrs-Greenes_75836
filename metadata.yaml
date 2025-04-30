@@ -1,11 +1,16 @@
 _repo: Six-Mrs-Greenes_75836
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75836-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Rea, Lorna
     gutenberg_agent_id: '58176'
     url: http://www.gutenberg.org/2009/agents/58176
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75836#Six-Mrs-Greenes
 gutenberg_issued: '2025-04-11'
 gutenberg_type: Text
 identifiers:
